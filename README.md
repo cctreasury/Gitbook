@@ -1,2 +1,2 @@
-# Gitbook
-Files of Gitbook for CC treasury
+# Gitbook files
+For CC treasury
