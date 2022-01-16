@@ -12,7 +12,7 @@
   * [Fund 9](dashboard/fund-9.md)
 * [Transactions](transactions/README.md)
   * [Fund 6](transactions/fund-6/README.md)
-    * [Power up the Catalyst Circle](transactions/fund-6/power-up-the-catalyst-circle.md)
+    * [Power up the Catalyst Circle](Transactions/Fund6/Power Up The Catalyst Circle.md)
   * [Fund 7](transactions/fund-7/README.md)
     * [Sustaining the Circle](transactions/fund-7/sustaining-the-circle.md)
     * [CC Admin Team Scope Expansion](transactions/fund-7/cc-admin-team-scope-expansion.md)
