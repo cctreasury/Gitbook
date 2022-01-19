@@ -2,6 +2,7 @@
 
 * [Catalyst Circle Treasury](README.md)
 * [Transactions](transactions/README.md)
+  * [All aggregated](transactions/all-aggregated.md)
   * [Fund 6](transactions/fund-6/README.md)
     * [Power Up The Catalyst Circle](transactions/fund-6/power-up-the-catalyst-circle.md)
   * [Fund 7](transactions/fund-7/README.md)
