@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Catalyst Circle Treasury](README.md)
-* [Balances](README.md)
+* [Balances](<README (1).md>)
 * [Transactions](transactions/README.md)
   * [Fund 6](transactions/fund-6/README.md)
     * [Power Up The Catalyst Circle](transactions/fund-6/power-up-the-catalyst-circle.md)
