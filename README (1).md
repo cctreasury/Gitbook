@@ -9,7 +9,7 @@ description: Here you will find all balances of Funded Proposals
 Click **Run Pen** to View current balance of the Funded Proposal "**Power Up the Catalyst Circle**"
 
 {% embed url="https://codepen.io/cc-treasury/pen/GROKrwj" %}
-****[**Power Up the Catalyst Circle**](transactions/fund-6/power-up-the-catalyst-circle.md)****
+****[**Click here to view transactions**](transactions/fund-6/power-up-the-catalyst-circle.md)****
 {% endembed %}
 
 Incoming Fund 7 Proposals
