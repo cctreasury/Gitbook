@@ -4,7 +4,7 @@ description: Here you will find all balances of Funded Proposals
 
 # Balances
 
-### Power Up the Catalyst Circle balance
+## Power Up the Catalyst Circle balance
 
 Click **Run Pen** to View current balance of the Funded Proposal "**Power Up the Catalyst Circle**"
 
@@ -12,4 +12,4 @@ Click **Run Pen** to View current balance of the Funded Proposal "**Power Up the
 **Power Up the Catalyst Circle**
 {% endembed %}
 
-Under construction
+Incoming Fund 7 Proposals
