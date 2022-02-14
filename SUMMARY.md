@@ -10,3 +10,4 @@
     * [CC Admin Team Scope Expansion](transactions/fund-7/cc-admin-team-scope-expansion.md)
     * [Catalyst Circle - Funding Mechanism](transactions/fund-7/catalyst-circle-funding-mechanism.md)
     * [Catalyst Circle Treasury Management](transactions/fund-7/catalyst-circle-treasury-management.md)
+    * [Catalyst Circle Mentorship](transactions/fund-7/catalyst-circle-mentorship.md)
