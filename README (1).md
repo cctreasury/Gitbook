@@ -6,7 +6,7 @@ description: Here you will find all balances of Funded Proposals
 
 ## CC Admin Team Scope Expansion balance
 
-Click **Run Pen** to View current balance of the Funded Proposal "**Power Up the Catalyst Circle**"
+Click **Run Pen** to View current balance of the Funded Proposal "**CC Admin Team Scope Expansion**"
 
 {% embed url="https://codepen.io/cc-treasury/pen/GROKrwj" %}
 [**Click here to view transactions**](transactions/fund-6/power-up-the-catalyst-circle.md)
