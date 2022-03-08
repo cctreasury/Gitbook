@@ -29,3 +29,9 @@ Click **Run Pen** to View current balance of Funded Proposal "**CCv3 Sustaining 
 Click **Run Pen** to View current balance of Funded Proposal "**Catalyst Circle Treasury Management**"
 
 {% embed url="https://codepen.io/cc-treasury/pen/bGYywdw" %}
+
+## Catalyst Circle Mentorship
+
+Click **Run Pen** to View current balance of Funded Proposal "**Catalyst Circle Mentorship**"
+
+{% embed url="https://codepen.io/cc-treasury/pen/MWOdjyr" %}
