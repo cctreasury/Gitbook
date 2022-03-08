@@ -12,4 +12,8 @@ Click **Run Pen** to View current balance of Funded Proposal "**CC Admin Team Sc
 [**Click here to view transactions**](transactions/fund-6/power-up-the-catalyst-circle.md)
 {% endembed %}
 
-Incoming Fund 7 Proposals
+## Catalyst Circle Funding Mechanism
+
+Click **Run Pen** to View current balance of Funded Proposal "**Catalyst Circle Funding Mechanism**"
+
+{% embed url="https://codepen.io/cc-treasury/pen/RwjmROz" %}
