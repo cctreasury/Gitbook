@@ -17,6 +17,8 @@ Click **Run Pen** to View current balance of Funded Proposal "**CC Admin Team Sc
 Click **Run Pen** to View current balance of Funded Proposal "**Catalyst Circle Funding Mechanism**"
 
 {% embed url="https://codepen.io/cc-treasury/pen/RwjmROz" %}
+****[**Click here to view transactions**](transactions/fund-7/catalyst-circle-funding-mechanism.md)****
+{% endembed %}
 
 ## CCv3 Sustaining the Circle
 
