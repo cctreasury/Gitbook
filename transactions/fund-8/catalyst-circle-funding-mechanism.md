@@ -2,11 +2,11 @@
 description: https://cardano.ideascale.com/c/idea/403562
 ---
 
-# Fund 8
+# Catalyst Circle - Funding Mechanism
 
 | Date | Name | Budget item | Translation link | ADA out | ADA in | Balance |
 | :--: | :--: | :---------: | :--------------: | :-----: | :----: | :-----: |
-|      |      |             |       link       |         |        |         |
+|      |  IOG |             |       link       |         |        |         |
 |      |      |             |       link       |         |        |         |
 |      |      |             |       link       |         |        |         |
 |      |      |             |       link       |         |        |         |

@@ -11,4 +11,5 @@
     * [Catalyst Circle - Funding Mechanism](transactions/fund-7/catalyst-circle-funding-mechanism.md)
     * [Catalyst Circle Treasury Management](transactions/fund-7/catalyst-circle-treasury-management.md)
     * [Catalyst Circle Mentorship](transactions/fund-7/catalyst-circle-mentorship.md)
-  * [Fund 8](transactions/fund-8.md)
+  * [Fund 8](transactions/fund-8/README.md)
+    * [Catalyst Circle - Funding Mechanism](transactions/fund-8/catalyst-circle-funding-mechanism.md)
