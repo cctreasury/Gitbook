@@ -4,15 +4,4 @@ description: https://cardano.ideascale.com/c/idea/403562
 
 # Catalyst Circle - Funding Mechanism
 
-| Date | Name | Budget item | Translation link | ADA out | ADA in | Balance |
-| :--: | :--: | :---------: | :--------------: | :-----: | :----: | :-----: |
-|      |  IOG |             |       link       |         |        |         |
-|      |      |             |       link       |         |        |         |
-|      |      |             |       link       |         |        |         |
-|      |      |             |       link       |         |        |         |
-|      |      |             |       link       |         |        |         |
-|      |      |             |                  |         |        |         |
-|      |      |             |                  |         |        |         |
-|      |      |             |                  |         |        |         |
-|      |      |             |                  |         |        |         |
-|      |      |             |                  |         |        |         |
+<table><thead><tr><th align="center">Date</th><th align="center">Name</th><th data-type="select">Budget item</th><th align="center">Translation link</th><th align="center">ADA out</th><th align="center">ADA in</th><th align="center">Balance</th></tr></thead><tbody><tr><td align="center"></td><td align="center">IOG</td><td></td><td align="center">link</td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td></td><td align="center">link</td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td></td><td align="center">link</td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td></td><td align="center">link</td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td></td><td align="center">link</td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td><td></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr></tbody></table>
